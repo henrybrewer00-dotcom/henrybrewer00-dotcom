@@ -3,7 +3,6 @@
 I'm 14, from Austin. I build things, mostly with AI. Site: **[henrybrewer.dev](https://www.henrybrewer.dev)**
 
 **Now**
-- **[SiteLight](https://sitelight.xyz)**: checks whether ChatGPT, Gemini, Perplexity and Claude recommend your business, then tells you what to fix. Nothing to first revenue in 10 days.
 - **Vurn AI**: an autonomous pentesting tool. In its first 24 hours it found a hole in a top-200 GitHub repo that exposed 40,000+ Shopify accounts.
 
 **Before**
