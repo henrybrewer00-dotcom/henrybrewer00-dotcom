@@ -10,7 +10,6 @@ I'm Henry Brewer, a 14-year-old developer from Austin. I build things, mostly wi
 
 **Before**
 - **[Crawft](https://crawft.ai)**: cofounded it and was CTO, then sold my stake.
-- **SiteLight**: a side project I got to revenue in 10 days ($2). Since shut down.
 
 **Other stuff**
 - [Lily](https://github.com/henrybrewer00-dotcom/lily): calls my grandma every morning and texts the family how she sounded
